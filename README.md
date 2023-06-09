@@ -16,7 +16,7 @@ I'm continually deepening my understanding of machine learning algorithms and na
 * **Tools:** Git, GitHub, Docker
 
 ## 📫 How to reach me
-Feel free to reach out to me on [LinkedIn](Your LinkedIn Link Here). I'm always open to discussing AI, tech, and human cognition!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ajith-senthil-48b790202/). I'm always open to discussing AI, tech, and human cognition!
 
 ## ⚡ Fun fact
 When I'm not coding or studying, you can find me reading the latest AI research papers or playing chess!
