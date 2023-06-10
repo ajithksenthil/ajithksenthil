@@ -1,6 +1,6 @@
 # Hi there, I'm Ajith Senthil 👋
 
-I'm currently a Master's student at the University of Illinois Urbana-Champaign, where I'm studying Computer Science and Linguistics. I work at the Learning and Language Lab at UIUC, where we study language learning, cognition, and deep learning models/NLP. 
+I'm currently a Master's student at the University of Illinois Urbana-Champaign, where I'm studying Cognition using Deep Learning. I work at the Learning and Language Lab at UIUC, where we study language learning, cognition, and deep learning models/NLP. 
 
 I'm passionate about AI and machine learning and particularly intrigued by the integration of AI with human learning across a variety of interdisciplinary fields. My experience spans multiple labs, where I've had the opportunity to work on innovative projects at the intersection of humans and AI.
 
