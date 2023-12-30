@@ -1,37 +1,35 @@
 # Hi there, I'm Ajith Senthil 👋
 
-I'm a Master's student at the University of Illinois Urbana-Champaign, diving deep into the realms of Cognition and Deep Learning. As a co-founder and active researcher at the ByCog Research Group and a participant in cutting-edge projects at the Active Inference Institute, my work revolves around the synthesis of human cognition with artificial intelligence.
+🎓 **Educational Journey:** I'm currently a Master's student at the University of Illinois Urbana-Champaign, where I'm diving deep into Psychological Science with a minor in Statistics. I hold a BS in Computer Science + Linguistics and Brain, and Cognitive Science from the same university.
 
-I'm driven by a passion to unravel the complexities of the human mind using computational models and am currently seeking a Ph.D. position where I can further my research at the intersection of AI and human cognition. My interdisciplinary background fuels my mission to leverage insights from neuroscience to refine AI methodologies.
+🔍 **Research & Innovation:** As a co-founder and active researcher at ByCog Research Group, I focus on Computational Psychodynamics, modeling personality and cognition through active inference. At the Active Inference Institute, I'm developing frameworks to interpret human behavior and cognition, and I'm also part of the Learning Language Lab, exploring linguistic and visual cognition.
 
-## 🔭 Current Work
-- Co-Founder and Researcher at ByCog Research Group, pioneering Computational Psychodynamics to model personality and cognition.
-- Research Intern at Active Inference Institute, developing frameworks to interpret human behavior and cognition.
-- Researcher and Developer at the Attachment and Close Relationships Lab, innovating with Attachment Bot to analyze human attachment patterns.
-- Graduate Researcher at the Learning Language Lab, exploring linguistic and visual cognition through deep learning models.
-- AI/ML Team Leader at OpenPolitica, fostering democratic participation and civic discourse.
-- Project Manager & Machine Learning Developer at NeuroTech@UIUC, applying AI to neuroscientific data.
+👨‍💻 **Professional Experience:** I lead the AI/ML Team at OpenPolitica and serve as Project Manager & Machine Learning Developer at NeuroTech@UIUC. My work includes developing innovative frameworks and applying AI to neuroscientific data.
 
-## 🌱 What I'm Learning
-- Deepening my expertise in Computational Neuroscience and Cognitive Modelling.
-- Expanding my knowledge in AI through various frameworks like PyTorch, Unity3D, and HuggingFace Transformers.
-- Engaging with interdisciplinary studies that combine AI, Machine Learning, Neuroscience, and Statistical Learning.
+📚 **Academic Pursuits:** My passion lies in unraveling the complexities of the human mind using computational models. I'm currently seeking a Ph.D. position to further my research at the intersection of AI and human cognition, blending insights from neuroscience to refine AI methodologies.
 
-## 💼 Skills and Experience 
-- **Languages:** Python, C++, Java, C#, R, C, PHP, SQL, Javascript, Haskell
-- **Libraries/Frameworks:** TensorFlow, PyTorch, scikit-learn, NumSharp, NLTK, SpaCy, OpenAI API, LangChain, ChainLit, PineCone DB, HuggingFace Transformers
-- **Tools:** Git, GitHub, Docker, Jupyter Notebook/Lab, Mathematica, Unity3D
-- **Interests:** Knowledge Representation, Computational Linguistics, Deep Learning, Cognitive Modelling, Behavioral modeling, Free Energy Principle-Active Inference, Information Theory, Learning, Mathematical Statistics, Statistical Learning, Computational Neuroscience
+### What I'm Currently Up To
+- 🧠 Pioneering Computational Psychodynamics at ByCog Research Group.
+- 🤖 Developing innovative AI frameworks at the Active Inference Institute.
+- 💬 Innovating with Attachment Bot in the Attachment and Close Relationships Lab.
+- 🌐 Fostering democratic participation and civic discourse at OpenPolitica.
+- 🧬 Applying AI to neuroscientific data at NeuroTech@UIUC.
 
-## 📫 How to reach me
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ajith-senthil) or check out my [GitHub](https://github.com/ajithksenthil) for a look into my contributions and projects!
+### Technical Toolkit
+- **Languages:** Proficient in Python, C++, Java, C#, R, C, PHP, SQL, Javascript, Haskell.
+- **Frameworks/Libraries:** Experienced with TensorFlow, PyTorch, scikit-learn, NumSharp, NLTK, SpaCy, OpenAI API, LangChain, ChainLit, PineCone DB, HuggingFace Transformers.
+- **Tools:** Skilled in Git, GitHub, Docker, Jupyter Notebook/Lab, Mathematica, Unity3D.
 
-## ⚡ Fun fact
-Outside of academia and research, you might catch me engrossed in AI research papers, strategizing over a game of chess, or mentoring the next generation of AI enthusiasts!
+### Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ajith-senthil)
+- 💻 [GitHub](https://github.com/ajithksenthil)
 
-## 📜 Recent Publications and Presentations
+### Fun Fact
+Outside of academia and research, I enjoy reading AI research papers, watching tv shows, and mentoring future AI enthusiasts!
+
+### Recent Publications and Presentations
 - Senthil, A. (In preparation) Computational Psychodynamics: Process-Based Approach to modeling Cognition and Personality Using Active Inference
 - Senthil, A. (2023, April 20) Computational Psychodynamics: Process-based approach to modeling personality [Poster presentation]
 
-## 🤝 Volunteer Work
+### Volunteer Work
 - Xoom Learning: Created and delivered educational content to children in underprivileged communities, covering Math, English, and Computer Science.
