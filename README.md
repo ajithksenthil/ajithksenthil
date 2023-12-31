@@ -22,7 +22,7 @@
 
 ### Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ajith-senthil)
-- 💻 [GitHub](https://github.com/ajithksenthil)
+- 💻 [Portfolio]([https://github.com/ajithksenthil](https://ajithsenthil.com))
 
 ### Fun Fact
 Outside of academia and research, I enjoy reading AI research papers, watching tv shows, and mentoring future AI enthusiasts!
