@@ -1,6 +1,6 @@
 # Hi there, I'm Ajith Senthil 👋
 
-🎓 **Educational Journey:** I'm currently a Master's student at the University of Illinois Urbana-Champaign, where I'm diving deep into Psychological Science with a minor in Statistics. I hold a BS in Computer Science + Linguistics and Brain and Cognitive Science from the same university.
+🎓 **Educational Journey:** I'm currently a Master's student at the University of Illinois Urbana-Champaign, where I'm diving deep into Psychological Science with a minor in Statistics. I hold a BS in Computer Science + Linguistics and a BS in Brain and Cognitive Science from the same university.
 
 🔍 **Research & Innovation:** As a co-founder and active researcher at ByCog Research Group, I focus on Computational Psychodynamics, modeling personality and cognition through active inference. At the Active Inference Institute, I'm developing frameworks to interpret human behavior and cognition, and I'm also part of the Learning Language Lab, exploring linguistic and visual cognition.
 
