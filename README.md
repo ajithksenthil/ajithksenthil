@@ -16,6 +16,7 @@
 - 🧬 Applying AI to neuroscientific data at NeuroTech@UIUC.
 
 ### Technical Toolkit
+- **Mathematics:** Bayesian Statistics, Statistical Learning, Mathematical Statistics and Regression Analysis
 - **Languages:** Proficient in Python, C++, Java, C#, R, C, PHP, SQL, Javascript, Haskell.
 - **Frameworks/Libraries:** Experienced with TensorFlow, PyTorch, scikit-learn, NumSharp, NLTK, SpaCy, OpenAI API, LangChain, ChainLit, PineCone DB, HuggingFace Transformers.
 - **Tools:** Skilled in Git, GitHub, Docker, Jupyter Notebook/Lab, Mathematica, Unity3D.
