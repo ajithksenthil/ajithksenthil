@@ -4,9 +4,9 @@
 
 🔍 **Research & Innovation:** As a co-founder and active researcher at ByCog Research Group, I focus on Computational Psychodynamics, modeling personality and cognition through active inference. At the Active Inference Institute, I'm developing frameworks to interpret human behavior and cognition, and I'm also part of the Learning Language Lab, exploring linguistic and visual cognition.
 
-👨‍💻 **Professional Experience:** I lead the AI/ML Team at OpenPolitica and serve as Project Manager & Machine Learning Developer at NeuroTech@UIUC. My work includes developing innovative frameworks and applying AI to neuroscientific data.
+👨‍💻 **Professional Experience:** I am the CEO and lead the AI/ML Team at OpenPolitica and serve as Project Manager & Machine Learning Developer of a multi-university project called UniversumX affiliated with NeuroTechX and their student chapters at UIUC, UCLA, and USC. UniversumX is developing deep learning models of perception with Brain-Computer Interfaces for AI alignment. My work includes developing innovative frameworks and applying AI to neuroscientific data.
 
-📚 **Academic Pursuits:** My passion lies in unraveling the complexities of the human mind using computational models. I'm currently seeking a research positions to further my research at the intersection of AI and human cognition, blending insights from neuroscience to refine AI methodologies.
+📚 **Academic Pursuits:** My passion lies in unraveling the complexities of the human mind using computational models. I'm currently seeking a research position to further my research at the intersection of AI and human cognition, blending insights from neuroscience to refine AI methodologies.
 
 ### What I'm Currently Up To
 - 🧠 Pioneering Computational Psychodynamics at ByCog Research Group.
