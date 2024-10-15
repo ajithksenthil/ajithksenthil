@@ -10,7 +10,6 @@
 
 ### What I'm Currently Up To
 - 🧠 Pioneering Computational Psychodynamics at ByCog Research Group.
-- 🤖 Developing innovative AI frameworks at the Active Inference Institute.
 - 💬 Innovating with Attachment Bot in the Attachment and Close Relationships Lab.
 - 🌐 Fostering democratic participation and civic discourse at OpenPolitica.
 - 🧬 Applying AI to neuroscientific data at NeuroTech@UIUC.
